@@ -4,7 +4,7 @@
 This project replicates a realistic cyber attack on a vulnerable Metasploitable 3 machine, followed by a full forensic investigation. It demonstrates exploitation, post-exploitation activities, and in-depth memory, disk, and network analysis using open-source tools.
 
 📎 📁 Full documentation available in the `docs` folder:  
-📄 [`incident-response-report.pdf`](./docs/incident-response-report.pdf)
+📄 [`incident-response-report.pdf`](./docs/Incident_Response_Forensics_Final.pdf)
 
 ---
 
