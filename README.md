@@ -54,4 +54,4 @@ This project replicates a realistic cyber attack on a vulnerable Metasploitable 
 ## ✅ Project Status
 - ✅ Completed  
 - 🗓️ Date: April 2024  
-- 🔒 Confidentiality: Educational purposes only  
+- 🔒 Confidentiality: Educational purposes, group project  
